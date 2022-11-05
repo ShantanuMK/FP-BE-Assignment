@@ -1,0 +1,182 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "5De3PfMt5A2IiJcRO1S1IDtTFM0",
+    "nextPageToken": "CAUQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IkL8aBCKuBf3665IcWahXF8qHIQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FT18h-Lc9zU"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-03T08:27:24Z",
+                "channelId": "UC92B_TGyxP_EQrmDRgWmPEA",
+                "title": "Dogecoin Technical Analysis for November 3 , 2022 - DOGE",
+                "description": "Join this channel to get access to perks: https://www.youtube.com/channel/UC92B_TGyxP_EQrmDRgWmPEA/join Dogecoin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FT18h-Lc9zU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FT18h-Lc9zU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FT18h-Lc9zU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Trading Academy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-03T08:27:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HkwJ2RojxIlScQJQ062o6SGI_wQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZvHozpw-slI"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-03T05:59:03Z",
+                "channelId": "UCNc4FB7ylWM0LBx0rx8SyZA",
+                "title": "Dogecoin: 💥 NO WAY!!! THIS Is NEXT???!! (doge price prediction news)",
+                "description": "FREE BONUS MONEY DOWN BELOW BitGet https://partner.bitget.com/bg/CryptoDubai UP TO *$4163 BONUS* ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZvHozpw-slI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZvHozpw-slI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZvHozpw-slI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crypto G",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-03T05:59:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VgcuHhR_oxNx-k5oqpOPSnriNwg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PRNQlADUjEU"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-03T04:51:03Z",
+                "channelId": "UCz5VudS3Xfile_p3OR7dQtw",
+                "title": "Dogecoin PUMP November 2022!!",
+                "description": "Full Video: https://www.youtube.com/watch?v=l_vMj-i4BiA #crypto #cryptocurrency #cryptonews #cryptocurrencies #cryptotrading ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PRNQlADUjEU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PRNQlADUjEU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PRNQlADUjEU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cultivate Crypto",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-03T04:51:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iLSg_zYYZx21OA_ZfDuq8PxHAYs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "itKVWOPTbRI"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-03T04:00:08Z",
+                "channelId": "UCyzDtZVP6Rlb-Yg3R5rY8Pg",
+                "title": "ROBINHOOD IN BIG TROUBLE ??? DOGECOIN LATEST UPDATE",
+                "description": "This Dogecoin Pump Will NOT Last? or Will It? * THIS VIDEO IS NOT FINANCIAL ADVISE & FOR EDUCATIONAL PURPOSES ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/itKVWOPTbRI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/itKVWOPTbRI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/itKVWOPTbRI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crypto Daily Trade Signals",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-03T04:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lQt-mQR3n5Faff-7RjewqbqvtfI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gbD7cO9gpto"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-03T02:43:26Z",
+                "channelId": "UCPHV3Mk3DReFOnntwCl0k0Q",
+                "title": "Doge Big Good News | Dogecoin Coin Price Prediction | Shiba Token Price Prediction",
+                "description": "Doge Big Good News | Dogecoin Coin Price Prediction | Shiba Token Price Prediction जुड़े Hamare Telegram से   ये ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gbD7cO9gpto/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gbD7cO9gpto/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gbD7cO9gpto/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crypto Tek baaz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-03T02:43:26Z"
+            }
+        }
+    ]
+}
