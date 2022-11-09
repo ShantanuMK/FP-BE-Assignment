@@ -105,4 +105,4 @@ response:
 ## Docker method for running the server:
 - clone the repository
 - `docker build -t beapp:2.1 .`
-- `docker run --name fampaybeapp -d -p 8080:8080 beapp:2.1`
+- `docker run --name fpbeapp -d -p 8080:8080 beapp:2.1`
