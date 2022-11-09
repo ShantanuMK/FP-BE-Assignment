@@ -1,4 +1,4 @@
-# FP-BE-Assignment
+# FP-BE
 
 ## Basic Requirements:
 
